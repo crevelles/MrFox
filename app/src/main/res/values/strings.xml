@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="textoBienvenida">welcome to </string>
+    <string name="textoMrFox">MrFox</string>
+    <string name="enterCredentials">Enter your credentials</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="txtBTN">Enter</string>
+    <string name="txtBTNupdate">update</string>
+    <string name="txtBTNuninstall">uninstall</string>
+    <string name="textoLorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,
+        fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
+        venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+        Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+    </string>
+
+</resources>
